@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+    <ImageView
+        android:id="@+id/imgmedi"
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:src="@drawable/medicine"
+        android:padding="12dp"
+        />
+    <TextView
+        android:id="@+id/tvname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgmedi"
+        android:hint="name"
+        android:textSize="20sp"
+        android:paddingLeft="20dp"
+        android:textColor="@color/colorAccent"/>
+    <TextView
+        android:id="@+id/tvtime"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_toRightOf="@+id/imgmedi"
+        android:layout_below="@+id/tvname"
+        android:layout_alignBottom="@+id/imgmedi"
+        android:textColor="@color/colorPrimaryDark"
+        android:hint="time"
+        android:textSize="20sp"
+        android:paddingLeft="20dp"/>
+
+</RelativeLayout>
