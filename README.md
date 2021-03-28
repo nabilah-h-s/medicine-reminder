@@ -3,4 +3,4 @@
 
 ## User Interfaces :
 
-![Implementation Mail Server](User_Interface_Screenshots/md01.jpg) | ![Implementation Mail Server](User_Interface_Screenshots/md02.jpg) | ![Implementation Mail Server](User_Interface_Screenshots/md04.jpg) 
+<img src="User_Interface_Screenshots/md01.jpg" width="280"> | <img src="User_Interface_Screenshots/md02.jpg" width="280">  | <img src="User_Interface_Screenshots/md04.jpg" width="280"> 
