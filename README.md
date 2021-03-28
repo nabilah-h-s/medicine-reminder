@@ -3,4 +3,4 @@
 
 ## User Interfaces :
 
-<img src="User_Interface_Screenshots/md01.jpg" width="280"> | <img src="User_Interface_Screenshots/md02.jpg" width="280">  | <img src="User_Interface_Screenshots/md04.jpg" width="280"> 
+<img src="User_Interface_Screenshots/md01.jpg" width="250"> | <img src="User_Interface_Screenshots/md02.jpg" width="250">  | <img src="User_Interface_Screenshots/md04.jpg" width="250"> 
